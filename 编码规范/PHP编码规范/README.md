@@ -10,9 +10,9 @@
 
 ## 规范列表
 
-* [PSR-0 自动加载器](https://github.com/ZOYU/Knowledge-Lab/编码规范/PHP编码规范/接受/PSR-0.md)
-* [PSR-1 基本代码规范](https://github.com/ZOYU/Knowledge-Lab/编码规范/PHP编码规范/接受/PSR-1-basic-coding-standard.md)
-* [PSR-2 代码样式规范](https://github.com/ZOYU/Knowledge-Lab/编码规范/PHP编码规范/接受/PSR-2-coding-style-guide.md) 
+* [PSR-0 自动加载器](https://github.com/ZOYU/Knowledge-Lab/blob/master/编码规范/PHP编码规范/接受/PSR-0.md)
+* [PSR-1 基本代码规范](https://github.com/ZOYU/Knowledge-Lab/blob/master/编码规范/PHP编码规范/接受/PSR-1-basic-coding-standard.md)
+* [PSR-2 代码样式规范](https://github.com/ZOYU/Knowledge-Lab/blob/master/编码规范/PHP编码规范/接受/PSR-2-coding-style-guide.md) 
 * 暂不对 PSR-3 做强制性要求。
 
 ## 代码编辑器
